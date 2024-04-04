@@ -25,7 +25,7 @@ export const Contact = () => {
   return (
     <div
       name="contact"
-      className="bg-gradient-to-b from-black to-gray-800 w-full h-screen p-10"
+      className="bg-gradient-to-b from-black to-gray-800 w-full h-screen pt-16"
     >
       <div className="text-white max-w-screen-lg mx-auto p-4 flex flex-col justify-center">
         <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
