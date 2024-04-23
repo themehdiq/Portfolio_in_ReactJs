@@ -8,7 +8,7 @@ import SocialLinks from "./components/SocialLinks";
 
 function App() {
   return (
-    <div>
+    <div className="flex flex-col">
       <Navbar></Navbar>
       <Home></Home>
       <About></About>

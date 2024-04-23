@@ -4,7 +4,7 @@ function About() {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pb-80 "
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white pt-72 pb-96"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
