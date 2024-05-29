@@ -25,10 +25,10 @@ export const Contact = () => {
   return (
     <div
       name="contact"
-      className="bg-gradient-to-b from-black to-gray-800 w-full h-screen pt-16"
+      className="bg-gradient-to-b from-black to-gray-800 w-full pb-10"
     >
-      <div className="text-white max-w-screen-lg mx-auto p-4 flex flex-col justify-center">
-        <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+      <div className="text-white max-w-screen-lg mx-auto flex flex-col justify-center">
+        <p className="text-4xl font-bold border-b-4 border-gray-500 inline">
           Contact Me !
         </p>
         <p className="py-6">Feel welcome to contact me !</p>
